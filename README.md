@@ -1,5 +1,5 @@
 # Front-end development II KSU project
 
-## Homebrewing-your-own-beer.
+## A scrolling one page how-to guide to homebrewing
 
 Kennesaw State University front-end development II final project.
